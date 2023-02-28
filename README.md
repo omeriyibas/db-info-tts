@@ -1,1 +1,1 @@
-# db-info-tts
+![image](https://raw.githubusercontent.com/omeriyibas/db-info-tts/main/screenshot.png)
